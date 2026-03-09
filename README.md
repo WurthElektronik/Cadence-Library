@@ -1,44 +1,22 @@
-**Orcad Libraries for Würth Elektronik Products**
-=
- 
+`Cadence Libraries for Würth Elektronik Products`
+=========
 ## Introduction
-Cadence OrCAD is a popular Electronic Design Automation (EDA) software used for PCB design. It offers a variety of products, including the popular OrCAD Capture, which is Cadence’s schematic capture tool, Padstack Editor ,OrCAD PCB Designer and OrCAD PSpice Designer. And WE OrCAD libraries are created by Cadence 17.2-2016 Lite Version.
- 
-**Please read Disclaimer carefully before downloading and using Würth Elektronik Models.**
- 
-**Note: Orcad library in GitHub repository is always the latest.**
- 
-## Component Classification
-* WE - Automotive
-* WE - Digital Isolators
-* WE - Electromechanical Components
- 
-  * Assembly
-  * Connectors
-  * REDCUBE Terminals
-  * Switches
-* WE - Optoelectronic Components
- 
-  * 7 Segments Display
-  * IC LEDs
-  * Infrared
-  * Laser
-  * LEDs
-  * Optical Sensors
-  * Optocoupler
-  * Ultraviolet
-* WE - Passive Components
- 
-  * Capacitors
-  * Crystals & Oscillators
-  * EMC Components
-  * Inductors
-  * Resistors
-  * Signal & Communications
-  * Transformers
-* WE - Power Modules
- 
-  * LED Driver
-  * Step Down Converter
-  * Isolated Converter
-* WE - Sensors
+Welcome to Würth Elektronik Cadence Library repository. <br>
+The libraries are created and maintained by Würth Elektronik EDA Team, for any questions and suggestions please feel free to contact EDA team by email: <libraries@we-online.com>
+
+## Library Component Coverage
+* Electromechanical Components <br>
+_Assembly, Connectors, REDCUBE Terminals, Switches_
+
+* Optoelectronic Components <br>
+_7 Segments Display, IC LEDs, Infrared, Laser, LEDs, Optical Sensors, Optocoupler, Ultraviolet_
+
+* Passive Components <br>
+_Capacitors, Crystals & Oscillators, EMC & RFI Components, Inductors, Resistors, Signal & Communications, Transformers_
+
+* Power Modules (MagI3C Series) <br>
+_Digital Isolator, Isolated Converter, LED Driver, Step Down Converter_
+
+## More Library Repositories Provided By Würth Elektronik
+**PCB Library**: [Eagle](https://github.com/WurthElektronik/Eagle-Library), [Altium](https://github.com/WurthElektronik/Altium-Library.git), [KiCad](https://github.com/WurthElektronik/KiCad-Library)    <br>
+**Simulation Library**: [ADS](https://github.com/WurthElektronik/ADS-Library), [Ansys](https://github.com/WurthElektronik/Ansys-Library), [IBIS](https://github.com/WurthElektronik/IBIS-Library), [LTspice](https://github.com/WurthElektronik/LTspice-Library), [Pspice](https://github.com/WurthElektronik/Pspice-Library), [Qspice](https://github.com/WurthElektronik/Qspice-Library)
